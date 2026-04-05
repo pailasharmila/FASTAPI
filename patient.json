@@ -1,0 +1,181 @@
+{
+  "P123456": {
+    "name": { "first_name": "Ravi", "last_name": "Kumar" },
+    "age": 32,
+    "gender": "Male",
+    "contact": {
+      "phone": "+91-9876543210",
+      "email": "ravi.kumar@example.com",
+      "address": {
+        "street": "123 Main Street",
+        "city": "Hyderabad",
+        "state": "Telangana",
+        "pincode": "500001"
+      }
+    },
+    "medical_history": [
+      { "condition": "Diabetes", "diagnosed_on": "2020-05-10", "medications": ["Metformin"] },
+      { "condition": "Hypertension", "diagnosed_on": "2021-11-25", "medications": ["Amlodipine"] }
+    ],
+    "emergency_contact": {
+      "name": "Sunita Kumar",
+      "relationship": "Wife",
+      "phone": "+91-9123456789"
+    },
+    "last_visit": "2024-12-15",
+    "next_appointment": "2025-08-10",
+    "allergies": ["Penicillin"]
+  },
+  "P123457": {
+    "name": { "first_name": "Anjali", "last_name": "Verma" },
+    "age": 28,
+    "gender": "Female",
+    "contact": {
+      "phone": "+91-9876501234",
+      "email": "anjali.verma@example.com",
+      "address": {
+        "street": "22 Lotus Lane",
+        "city": "Bengaluru",
+        "state": "Karnataka",
+        "pincode": "560001"
+      }
+    },
+    "medical_history": [
+      { "condition": "Asthma", "diagnosed_on": "2018-04-22", "medications": ["Salbutamol"] }
+    ],
+    "emergency_contact": {
+      "name": "Rohit Verma",
+      "relationship": "Brother",
+      "phone": "+91-9988776655"
+    },
+    "last_visit": "2025-03-20",
+    "next_appointment": "2025-08-14",
+    "allergies": ["Dust"]
+  },
+  "P123458": {
+    "name": { "first_name": "Arun", "last_name": "Patel" },
+    "age": 45,
+    "gender": "Male",
+    "contact": {
+      "phone": "+91-9833224455",
+      "email": "arun.patel@example.com",
+      "address": {
+        "street": "456 Park Avenue",
+        "city": "Ahmedabad",
+        "state": "Gujarat",
+        "pincode": "380001"
+      }
+    },
+    "medical_history": [],
+    "emergency_contact": {
+      "name": "Meena Patel",
+      "relationship": "Wife",
+      "phone": "+91-9000001111"
+    },
+    "last_visit": "2025-06-01",
+    "next_appointment": "2025-08-18",
+    "allergies": []
+  },
+  "P123459": {
+    "name": { "first_name": "Sneha", "last_name": "Reddy" },
+    "age": 36,
+    "gender": "Female",
+    "contact": {
+      "phone": "+91-9812345678",
+      "email": "sneha.reddy@example.com",
+      "address": {
+        "street": "7 Hilltop Road",
+        "city": "Visakhapatnam",
+        "state": "Andhra Pradesh",
+        "pincode": "530001"
+      }
+    },
+    "medical_history": [
+      { "condition": "Thyroid", "diagnosed_on": "2019-01-10", "medications": ["Levothyroxine"] }
+    ],
+    "emergency_contact": {
+      "name": "Satish Reddy",
+      "relationship": "Husband",
+      "phone": "+91-9111222333"
+    },
+    "last_visit": "2025-01-10",
+    "next_appointment": "2025-08-05",
+    "allergies": ["Pollen"]
+  },
+  "P123460": {
+    "name": { "first_name": "Nikhil", "last_name": "Sharma" },
+    "age": 50,
+    "gender": "Male",
+    "contact": {
+      "phone": "+91-9823456789",
+      "email": "nikhil.sharma@example.com",
+      "address": {
+        "street": "88 River Street",
+        "city": "Delhi",
+        "state": "Delhi",
+        "pincode": "110001"
+      }
+    },
+    "medical_history": [
+      { "condition": "Arthritis", "diagnosed_on": "2017-09-15", "medications": ["Ibuprofen"] }
+    ],
+    "emergency_contact": {
+      "name": "Ritu Sharma",
+      "relationship": "Daughter",
+      "phone": "+91-9555512345"
+    },
+    "last_visit": "2025-04-12",
+    "next_appointment": "2025-08-20",
+    "allergies": ["Shellfish"]
+  },
+  "P123461": {
+    "name": { "first_name": "Fatima", "last_name": "Ansari" },
+    "age": 40,
+    "gender": "Female",
+    "contact": {
+      "phone": "+91-9845678910",
+      "email": "fatima.ansari@example.com",
+      "address": {
+        "street": "11 Jasmine Road",
+        "city": "Lucknow",
+        "state": "Uttar Pradesh",
+        "pincode": "226001"
+      }
+    },
+    "medical_history": [
+      { "condition": "PCOS", "diagnosed_on": "2015-06-05", "medications": ["Birth control pills"] }
+    ],
+    "emergency_contact": {
+      "name": "Aslam Ansari",
+      "relationship": "Brother",
+      "phone": "+91-9001133344"
+    },
+    "last_visit": "2025-07-10",
+    "next_appointment": "2025-08-12",
+    "allergies": ["Gluten"]
+  },
+  "P123462": {
+    "name": { "first_name": "Rahul", "last_name": "Mehra" },
+    "age": 29,
+    "gender": "Male",
+    "contact": {
+      "phone": "+91-9797979797",
+      "email": "rahul.mehra@example.com",
+      "address": {
+        "street": "9 Ashok Marg",
+        "city": "Jaipur",
+        "state": "Rajasthan",
+        "pincode": "302001"
+      }
+    },
+    "medical_history": [],
+    "emergency_contact": {
+      "name": "Naina Mehra",
+      "relationship": "Sister",
+      "phone": "+91-9123456700"
+    },
+    "last_visit": "2025-02-25",
+    "next_appointment": "2025-08-30",
+    "allergies": ["Nuts"]
+  }
+}
